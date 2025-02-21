@@ -1,7 +1,7 @@
 # DataBases-4sem
 ## Репозиторий для отчетов по дисциплине Базы Данных
 ---
-## [Самостоятельная работа №1] (https://github.com/jamanuriyeva/DataBases-4sem/tree/75a1a6d7bfa0d8c1d244f034d8e98d545d2333fe/%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961)
+## [Самостоятельная работа №1](https://github.com/jamanuriyeva/DataBases-4sem/tree/75a1a6d7bfa0d8c1d244f034d8e98d545d2333fe/%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961)
 Самостоятельное задание по теме "Обобщенная архитектура баз данных"
 
 Задание 1.1:  Заполнить таблицу "Типы данных и объекты СУБД MySQL"
